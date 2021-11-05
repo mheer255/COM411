@@ -1,11 +1,13 @@
-# ask user about number of cables
-print("how many cables should i remove?")
-cables_to_remove = input()
+def while_loop2():
+ print("how many cables should i remove?")
+remove = int(input())
 
-# declare a control variable
-cables_removed = 0
-# remove cables
+ removed = 0
+
 print()
-while cables_removed < 1 :
- print(f"removed cables.")
-cables_removed = cables_removed + 1
+while removed < remove:
+ print("removed cables.")
+removed = removed + 1
+
+if __name__ == " __main__":
+ while_loop2()
