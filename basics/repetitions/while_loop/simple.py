@@ -1,13 +1,14 @@
-def while_loop2():
- print("how many cables should i remove?")
+# ask user for number of cables
+print("how many cables should I remove?")
 remove = int(input())
 
- removed = 0
+# declare a control variable3
+removed = 0
 
+# Remove cables
 print()
-while removed < remove:
- print("removed cables.")
-removed = removed + 1
 
-if __name__ == " __main__":
- while_loop2()
+
+while removed < remove:
+    print("removed cables.")
+    removed = remove + 1
