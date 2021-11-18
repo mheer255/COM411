@@ -6,7 +6,6 @@ phrase = input()
 print("\nReversing...")
 print("The phrase is ", end="")
 
-reversed = ""
 
 for letter in phrase:
     reversed = letter + reversed
