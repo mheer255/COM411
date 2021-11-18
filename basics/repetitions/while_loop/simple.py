@@ -11,4 +11,4 @@ print()
 
 while removed < remove:
     print("removed cables.")
-    removed = remove + 1
+    removed = removed + 1
