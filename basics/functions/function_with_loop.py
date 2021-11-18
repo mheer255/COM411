@@ -10,5 +10,5 @@ def cross_bridge(steps):
         print("We must keep going!")
 
 # calls to function
- cross_bridge(2)
- cross_bridge(6)
+cross_bridge(2)
+cross_bridge(6)
