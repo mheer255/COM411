@@ -6,4 +6,4 @@ markings = input()
 print("\nIdentifying...\n")
 
 for count in range(0, len(markings), 1):
-    print(f"index:", markings[count])
+    print(f"index {count}:", markings[count])
