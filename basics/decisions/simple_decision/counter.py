@@ -1,12 +1,12 @@
 # Ask user for numbers
 print("Please enter the first whole number?")
-first_number = input()
+first_number = int(input())
 
 print("Please enter the second whole number?")
-second_number = input()
+second_number = int(input())
 
 print("Please enter the third whole number?")
-third_number = input()
+third_number = int(input())
 
 even_numbers = 0
 odd_numbers = 0
@@ -28,4 +28,4 @@ else:
     odd_numbers = odd_numbers + 1
 
 # Display result
-print(f"There were  even and  odd numbers.")
+print(f"There were {even_numbers} even and {odd_numbers} odd numbers.")
