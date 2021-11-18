@@ -11,6 +11,8 @@ while cables_avoided < cables_to_avoid:
     print("Avoiding...", end="")
     cables_avoided = cables_avoided + 1
     print(f"Done! cables avoided.")
+
+
 # display message
 print("All live cables have been avoided.")
 
