@@ -2,8 +2,8 @@ import os
 
 
 def cwd():
-  path = os.getcwd()
-  print(f"The current working directory is {path}")
+   path = os.getcwd()
+  print(f"The current working directory is {.data/cwd.py}")
   print(f"The directory contains the following:")
 
   for file in os.listdir(path):

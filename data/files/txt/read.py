@@ -21,5 +21,6 @@ def run():
     display_line("library.txt")
     display_text("library.txt")
 
+
 if __name__ == "__main__":
     run()
