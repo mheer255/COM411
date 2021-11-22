@@ -3,7 +3,7 @@ def search(file_path):
     with open(file_path) as file:
         for location in file:
             print(f"Looked in {location.strip()}")
-    print("Done!")
+    print("....Done!")
 
 
 def run():
