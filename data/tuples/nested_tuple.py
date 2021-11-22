@@ -9,7 +9,7 @@ def run():
     bad_steps = []
 
     for step in all_steps:
-        if (step[1] >= 50):
+        if step[1] >= 50:
             bad_steps.append(step)
         else:
             good_steps.append(step)
