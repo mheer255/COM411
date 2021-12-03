@@ -1,8 +1,9 @@
+
 LINE_WIDTH = 85
 
 
 def started(msg=""):
-    output = f"Operation started:{msg} ..."
+    output = f"Operation started: {msg}..."
     dashes = "-" * LINE_WIDTH
     print(f"{dashes}\n{output}\n")
 
@@ -21,8 +22,9 @@ def menu():
     {"[years]":<10} List unique years
     {"[tally]":<10} Tally up medals
     {"[team]":<10} Tally up medals for each team
-    {"[exit]":<10} Exit the program """)
-    selection = input()
+    {"[exit]":<10} Exit the program
+    """)
+    selection = input("Your selection: ")
     return selection.strip().lower()
 
 

@@ -2,9 +2,11 @@ def sum_weights(beep_weight, bop_weight):
     total_weight = beep_weight + bop_weight
     return total_weight
 
+
 def calc_avg_weight(beep_weight, bop_weight):
     avg_weight = sum_weights(beep_weight, bop_weight) / 2
     return avg_weight
+
 
 def run():
     # retrieve required user data
@@ -26,6 +28,7 @@ def run():
         print(f"The average of Beep's and Bop's weight is {answer:.2f}")
     else:
         print("I am not sure what you would like to do.")
+
 
 # call to function
 run()

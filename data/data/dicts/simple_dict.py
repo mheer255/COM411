@@ -1,8 +1,10 @@
 def pattern():
-  sequences = {"Short Sequence":3, "Medium Sequence":2, "Long Sequence":1}
-  return sequences
+    sequences = {"Short Sequence": 3, "Medium Sequence": 2, "Long Sequence": 1}
+    return sequences
+
 
 def run():
-  print(pattern())
+    print(pattern())
+
 
 run()
