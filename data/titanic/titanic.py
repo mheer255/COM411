@@ -31,14 +31,14 @@ def display_menu():
 def display_passenger_names():
     print("the name of the passengers are...")
     for record in records:
-     passenger_name = record[3]
-     print(f"{passenger_name}")
+        passenger_name = record[3]
+        print(f"{passenger_name}")
 
 
 def display_num_survivors():
     num_survived = 0
     for record in records:
-        survival_status == int(record[1])
+        survival_status = int(record[1])
         if survival_status == 1:
             num_survived = (num_survived + 1)
             print(f"{num_survived} passengers survived")
@@ -50,12 +50,12 @@ def display_passengers_per_gender():
     for record in records:
         gender = record[4]
         if gender == 'male':
-         males += 1
+            males += 1
         elif gender == 'female':
-             female += 1
+            female += 1
         else:
             print("")
-            print(f"females:{females}, males: {males}")
+    print(f"females: {female}, males: {males}")
 
 
 def display_passengers_per_age_group():
@@ -67,7 +67,7 @@ def display_passengers_per_age_group():
         if records[5] != "":
             age = float(record[5])
             if age < 18:
-               children += 1
+                children += 1
             elif age < 65:
                 adults += 1
             else:
@@ -93,7 +93,7 @@ def display_survivors_per_age_group():
 
 
 
-               survival_status = int(record[1])
+            survival_status = int(record[1])
             if survival_status == 1 and age < 18:
                 ch_survived += 1
             elif survival_status == 1 and age < 65:
