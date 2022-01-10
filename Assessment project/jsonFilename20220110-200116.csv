@@ -1,0 +1,5132 @@
+{
+    "1": {
+        "SNo": "1",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "45",
+        "Recovered": "0"
+    },
+    "2": {
+        "SNo": "2",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "14",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "3": {
+        "SNo": "3",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "6",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "4": {
+        "SNo": "4",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "5": {
+        "SNo": "5",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "6": {
+        "SNo": "6",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "26",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "7": {
+        "SNo": "7",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "8": {
+        "SNo": "8",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "9": {
+        "SNo": "9",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "10": {
+        "SNo": "10",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Hebei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "11": {
+        "SNo": "11",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "12": {
+        "SNo": "12",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "100"
+    },
+    "13": {
+        "SNo": "13",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "14": {
+        "SNo": "14",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "444",
+        "Deaths": "18",
+        "Recovered": "28"
+    },
+    "15": {
+        "SNo": "15",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "16": {
+        "SNo": "16",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "17": {
+        "SNo": "17",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "18": {
+        "SNo": "18",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "19": {
+        "SNo": "19",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "20": {
+        "SNo": "20",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "21": {
+        "SNo": "21",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "22": {
+        "SNo": "22",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "23": {
+        "SNo": "23",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "24": {
+        "SNo": "24",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "25": {
+        "SNo": "25",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "26": {
+        "SNo": "26",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "27": {
+        "SNo": "27",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "28": {
+        "SNo": "28",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "29": {
+        "SNo": "29",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "30": {
+        "SNo": "30",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "31": {
+        "SNo": "31",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Tibet",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "32": {
+        "SNo": "32",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "33": {
+        "SNo": "33",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "34": {
+        "SNo": "34",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "35": {
+        "SNo": "35",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "10",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "36": {
+        "SNo": "36",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "37": {
+        "SNo": "37",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "38": {
+        "SNo": "38",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "39": {
+        "SNo": "39",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "40": {
+        "SNo": "40",
+        "ObservationDate": "01/22/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/22/2020 17:00",
+        "Confirmed": "0",
+        "Deaths": "368",
+        "Recovered": "0"
+    },
+    "41": {
+        "SNo": "41",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "42": {
+        "SNo": "42",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "22",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "43": {
+        "SNo": "43",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "44": {
+        "SNo": "44",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "45": {
+        "SNo": "45",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "46": {
+        "SNo": "46",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "32",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "47": {
+        "SNo": "47",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "48": {
+        "SNo": "48",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "49": {
+        "SNo": "49",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "50": {
+        "SNo": "50",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "444",
+        "Deaths": "17",
+        "Recovered": "28"
+    },
+    "51": {
+        "SNo": "51",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "52": {
+        "SNo": "52",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "53": {
+        "SNo": "53",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "54": {
+        "SNo": "54",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "444",
+        "Deaths": "17",
+        "Recovered": "28"
+    },
+    "55": {
+        "SNo": "55",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "56": {
+        "SNo": "56",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "57": {
+        "SNo": "57",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "58": {
+        "SNo": "58",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "59": {
+        "SNo": "59",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "60": {
+        "SNo": "60",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "61": {
+        "SNo": "61",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "62": {
+        "SNo": "62",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "63": {
+        "SNo": "63",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "64": {
+        "SNo": "64",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "65": {
+        "SNo": "65",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "6",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "66": {
+        "SNo": "66",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "16",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "67": {
+        "SNo": "67",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "68": {
+        "SNo": "68",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "69": {
+        "SNo": "69",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "70": {
+        "SNo": "70",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "71": {
+        "SNo": "71",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Tibet",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "72": {
+        "SNo": "72",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "73": {
+        "SNo": "73",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "74": {
+        "SNo": "74",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "75": {
+        "SNo": "75",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "27",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "76": {
+        "SNo": "76",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "77": {
+        "SNo": "77",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "78": {
+        "SNo": "78",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "79": {
+        "SNo": "79",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Singapore",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "80": {
+        "SNo": "80",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Philippines",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "81": {
+        "SNo": "81",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Malaysia",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "82": {
+        "SNo": "82",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Vietnam",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "83": {
+        "SNo": "83",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Australia",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "84": {
+        "SNo": "84",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Mexico",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "85": {
+        "SNo": "85",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Brazil",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "86": {
+        "SNo": "86",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Colombia",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "87": {
+        "SNo": "87",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "88": {
+        "SNo": "88",
+        "ObservationDate": "01/23/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/23/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "89": {
+        "SNo": "89",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "549",
+        "Deaths": "24",
+        "Recovered": "31"
+    },
+    "90": {
+        "SNo": "90",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "53",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "91": {
+        "SNo": "91",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "43",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "92": {
+        "SNo": "92",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "36",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "93": {
+        "SNo": "93",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "27",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "94": {
+        "SNo": "94",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "24",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "95": {
+        "SNo": "95",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "23",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "96": {
+        "SNo": "96",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "20",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "97": {
+        "SNo": "97",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "18",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "98": {
+        "SNo": "98",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "15",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "99": {
+        "SNo": "99",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "15",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "100": {
+        "SNo": "100",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "15",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "101": {
+        "SNo": "101",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "10",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "102": {
+        "SNo": "102",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "103": {
+        "SNo": "103",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "104": {
+        "SNo": "104",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "105": {
+        "SNo": "105",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "106": {
+        "SNo": "106",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "107": {
+        "SNo": "107",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "108": {
+        "SNo": "108",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "4",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "109": {
+        "SNo": "109",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "110": {
+        "SNo": "110",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "111": {
+        "SNo": "111",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "112": {
+        "SNo": "112",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "113": {
+        "SNo": "113",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "114": {
+        "SNo": "114",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "115": {
+        "SNo": "115",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "116": {
+        "SNo": "116",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Hebei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "117": {
+        "SNo": "117",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "118": {
+        "SNo": "118",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "119": {
+        "SNo": "119",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "120": {
+        "SNo": "120",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "121": {
+        "SNo": "121",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "122": {
+        "SNo": "122",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "123": {
+        "SNo": "123",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Chicago",
+        "Country/Region": "US",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "124": {
+        "SNo": "124",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "125": {
+        "SNo": "125",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "3"
+    },
+    "126": {
+        "SNo": "126",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "127": {
+        "SNo": "127",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "",
+        "Country/Region": "Singapore",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "128": {
+        "SNo": "128",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "",
+        "Country/Region": "Vietnam",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "129": {
+        "SNo": "129",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "",
+        "Country/Region": "France",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "130": {
+        "SNo": "130",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "131": {
+        "SNo": "131",
+        "ObservationDate": "01/24/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/24/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "132": {
+        "SNo": "132",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "761",
+        "Deaths": "40",
+        "Recovered": "32"
+    },
+    "133": {
+        "SNo": "133",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "78",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "134": {
+        "SNo": "134",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "62",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "135": {
+        "SNo": "135",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "57",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "136": {
+        "SNo": "136",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "43",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "137": {
+        "SNo": "137",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "41",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "138": {
+        "SNo": "138",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "39",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "139": {
+        "SNo": "139",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "33",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "140": {
+        "SNo": "140",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "32",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "141": {
+        "SNo": "141",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "28",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "142": {
+        "SNo": "142",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "27",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "143": {
+        "SNo": "143",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "23",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "144": {
+        "SNo": "144",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "19",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "145": {
+        "SNo": "145",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "18",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "146": {
+        "SNo": "146",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "18",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "147": {
+        "SNo": "147",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "18",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "148": {
+        "SNo": "148",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "17",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "149": {
+        "SNo": "149",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "15",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "150": {
+        "SNo": "150",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "11",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "151": {
+        "SNo": "151",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "10",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "152": {
+        "SNo": "152",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "9",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "153": {
+        "SNo": "153",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Hebei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "8",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "154": {
+        "SNo": "154",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "155": {
+        "SNo": "155",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "6",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "156": {
+        "SNo": "156",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "157": {
+        "SNo": "157",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "158": {
+        "SNo": "158",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "159": {
+        "SNo": "159",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "160": {
+        "SNo": "160",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "161": {
+        "SNo": "161",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "162": {
+        "SNo": "162",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "163": {
+        "SNo": "163",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "164": {
+        "SNo": "164",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "165": {
+        "SNo": "165",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "166": {
+        "SNo": "166",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Illinois",
+        "Country/Region": "US",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "167": {
+        "SNo": "167",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "168": {
+        "SNo": "168",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "6",
+        "Deaths": "0",
+        "Recovered": "3"
+    },
+    "169": {
+        "SNo": "169",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "170": {
+        "SNo": "170",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "Singapore",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "171": {
+        "SNo": "171",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "Vietnam",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "172": {
+        "SNo": "172",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "France",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "173": {
+        "SNo": "173",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "Australia",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "174": {
+        "SNo": "174",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "Nepal",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "175": {
+        "SNo": "175",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "Malaysia",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "176": {
+        "SNo": "176",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "177": {
+        "SNo": "177",
+        "ObservationDate": "01/25/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/25/20 17:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "178": {
+        "SNo": "178",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "1058",
+        "Deaths": "52",
+        "Recovered": "42"
+    },
+    "179": {
+        "SNo": "179",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "111",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "180": {
+        "SNo": "180",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "104",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "181": {
+        "SNo": "181",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "83",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "182": {
+        "SNo": "182",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "75",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "183": {
+        "SNo": "183",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "69",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "184": {
+        "SNo": "184",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "68",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "185": {
+        "SNo": "185",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "60",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "186": {
+        "SNo": "186",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "46",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "187": {
+        "SNo": "187",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "44",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "188": {
+        "SNo": "188",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "40",
+        "Deaths": "1",
+        "Recovered": "1"
+    },
+    "189": {
+        "SNo": "189",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "36",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "190": {
+        "SNo": "190",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "36",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "191": {
+        "SNo": "191",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "35",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "192": {
+        "SNo": "192",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "33",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "193": {
+        "SNo": "193",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "22",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "194": {
+        "SNo": "194",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "22",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "195": {
+        "SNo": "195",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "21",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "196": {
+        "SNo": "196",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "16",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "197": {
+        "SNo": "197",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "15",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "198": {
+        "SNo": "198",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "14",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "199": {
+        "SNo": "199",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Hebei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "13",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "200": {
+        "SNo": "200",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "201": {
+        "SNo": "201",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "202": {
+        "SNo": "202",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "203": {
+        "SNo": "203",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "204": {
+        "SNo": "204",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "205": {
+        "SNo": "205",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "206": {
+        "SNo": "206",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "207": {
+        "SNo": "207",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "208": {
+        "SNo": "208",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "209": {
+        "SNo": "209",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "210": {
+        "SNo": "210",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "211": {
+        "SNo": "211",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "212": {
+        "SNo": "212",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Illinois",
+        "Country/Region": "US",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "213": {
+        "SNo": "213",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "California",
+        "Country/Region": "US",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "214": {
+        "SNo": "214",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Arizona",
+        "Country/Region": "US",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "215": {
+        "SNo": "215",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "216": {
+        "SNo": "216",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "6"
+    },
+    "217": {
+        "SNo": "217",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "218": {
+        "SNo": "218",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "Singapore",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "219": {
+        "SNo": "219",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "Vietnam",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "220": {
+        "SNo": "220",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "France",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "221": {
+        "SNo": "221",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "Australia",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "222": {
+        "SNo": "222",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "Nepal",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "223": {
+        "SNo": "223",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "Malaysia",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "224": {
+        "SNo": "224",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "225": {
+        "SNo": "225",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "226": {
+        "SNo": "226",
+        "ObservationDate": "01/26/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "227": {
+        "SNo": "227",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1423",
+        "Deaths": "76",
+        "Recovered": "45"
+    },
+    "228": {
+        "SNo": "228",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "151",
+        "Deaths": "0",
+        "Recovered": "4"
+    },
+    "229": {
+        "SNo": "229",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "128",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "230": {
+        "SNo": "230",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "128",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "231": {
+        "SNo": "231",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "110",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "232": {
+        "SNo": "232",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "100",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "233": {
+        "SNo": "233",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "80",
+        "Deaths": "1",
+        "Recovered": "2"
+    },
+    "234": {
+        "SNo": "234",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "75",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "235": {
+        "SNo": "235",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "72",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "236": {
+        "SNo": "236",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "70",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "237": {
+        "SNo": "237",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "69",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "238": {
+        "SNo": "238",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "59",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "239": {
+        "SNo": "239",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "53",
+        "Deaths": "1",
+        "Recovered": "3"
+    },
+    "240": {
+        "SNo": "240",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "47",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "241": {
+        "SNo": "241",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "46",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "242": {
+        "SNo": "242",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "35",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "243": {
+        "SNo": "243",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "33",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "244": {
+        "SNo": "244",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "27",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "245": {
+        "SNo": "245",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "26",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "246": {
+        "SNo": "246",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "23",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "247": {
+        "SNo": "247",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "21",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "248": {
+        "SNo": "248",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Hebei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "18",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "249": {
+        "SNo": "249",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "14",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "250": {
+        "SNo": "250",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "13",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "251": {
+        "SNo": "251",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "11",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "252": {
+        "SNo": "252",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "253": {
+        "SNo": "253",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "254": {
+        "SNo": "254",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "255": {
+        "SNo": "255",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "6",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "256": {
+        "SNo": "256",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "6",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "257": {
+        "SNo": "257",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "6",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "258": {
+        "SNo": "258",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "259": {
+        "SNo": "259",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "260": {
+        "SNo": "260",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "261": {
+        "SNo": "261",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Illinois",
+        "Country/Region": "US",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "262": {
+        "SNo": "262",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "California",
+        "Country/Region": "US",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "263": {
+        "SNo": "263",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Arizona",
+        "Country/Region": "US",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "264": {
+        "SNo": "264",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "265": {
+        "SNo": "265",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "6"
+    },
+    "266": {
+        "SNo": "266",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "267": {
+        "SNo": "267",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Singapore",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "268": {
+        "SNo": "268",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Vietnam",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "269": {
+        "SNo": "269",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "France",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "270": {
+        "SNo": "270",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Nepal",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "271": {
+        "SNo": "271",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Malaysia",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "272": {
+        "SNo": "272",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "273": {
+        "SNo": "273",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Cambodia",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "274": {
+        "SNo": "274",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Sri Lanka",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "275": {
+        "SNo": "275",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Ivory Coast",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "276": {
+        "SNo": "276",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "New South Wales",
+        "Country/Region": "Australia",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "277": {
+        "SNo": "277",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Victoria",
+        "Country/Region": "Australia",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "278": {
+        "SNo": "278",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "279": {
+        "SNo": "279",
+        "ObservationDate": "01/27/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "280": {
+        "SNo": "280",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "3554",
+        "Deaths": "125",
+        "Recovered": "80"
+    },
+    "281": {
+        "SNo": "281",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "207",
+        "Deaths": "0",
+        "Recovered": "4"
+    },
+    "282": {
+        "SNo": "282",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "173",
+        "Deaths": "0",
+        "Recovered": "3"
+    },
+    "283": {
+        "SNo": "283",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "168",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "284": {
+        "SNo": "284",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "143",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "285": {
+        "SNo": "285",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "132",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "286": {
+        "SNo": "286",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "109",
+        "Deaths": "0",
+        "Recovered": "3"
+    },
+    "287": {
+        "SNo": "287",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "106",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "288": {
+        "SNo": "288",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "95",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "289": {
+        "SNo": "289",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "91",
+        "Deaths": "1",
+        "Recovered": "4"
+    },
+    "290": {
+        "SNo": "290",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "90",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "291": {
+        "SNo": "291",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "80",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "292": {
+        "SNo": "292",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "70",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "293": {
+        "SNo": "293",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "66",
+        "Deaths": "1",
+        "Recovered": "4"
+    },
+    "294": {
+        "SNo": "294",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "51",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "295": {
+        "SNo": "295",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "46",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "296": {
+        "SNo": "296",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "44",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "297": {
+        "SNo": "297",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "40",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "298": {
+        "SNo": "298",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "34",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "299": {
+        "SNo": "299",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Hebei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "33",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "300": {
+        "SNo": "300",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "33",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "301": {
+        "SNo": "301",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "27",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "302": {
+        "SNo": "302",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "24",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "303": {
+        "SNo": "303",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "19",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "304": {
+        "SNo": "304",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "15",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "305": {
+        "SNo": "305",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "11",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "306": {
+        "SNo": "306",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "10",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "307": {
+        "SNo": "307",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "308": {
+        "SNo": "308",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "309": {
+        "SNo": "309",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "310": {
+        "SNo": "310",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "311": {
+        "SNo": "311",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "312": {
+        "SNo": "312",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "6",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "313": {
+        "SNo": "313",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "1",
+        "Deaths": "83",
+        "Recovered": "0"
+    },
+    "314": {
+        "SNo": "314",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Illinois",
+        "Country/Region": "US",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "315": {
+        "SNo": "315",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "California",
+        "Country/Region": "US",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "316": {
+        "SNo": "316",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Arizona",
+        "Country/Region": "US",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "317": {
+        "SNo": "317",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "318": {
+        "SNo": "318",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "14",
+        "Deaths": "0",
+        "Recovered": "6"
+    },
+    "319": {
+        "SNo": "319",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "320": {
+        "SNo": "320",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "Singapore",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "321": {
+        "SNo": "321",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "Vietnam",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "322": {
+        "SNo": "322",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "France",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "323": {
+        "SNo": "323",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "Nepal",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "324": {
+        "SNo": "324",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "Malaysia",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "325": {
+        "SNo": "325",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "326": {
+        "SNo": "326",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "327": {
+        "SNo": "327",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "Cambodia",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "328": {
+        "SNo": "328",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "Sri Lanka",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "329": {
+        "SNo": "329",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "New South Wales",
+        "Country/Region": "Australia",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "330": {
+        "SNo": "330",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Victoria",
+        "Country/Region": "Australia",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "331": {
+        "SNo": "331",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Bavaria",
+        "Country/Region": "Germany",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "332": {
+        "SNo": "332",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "333": {
+        "SNo": "333",
+        "ObservationDate": "01/28/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "334": {
+        "SNo": "334",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "3554",
+        "Deaths": "125",
+        "Recovered": "88"
+    },
+    "335": {
+        "SNo": "335",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "296",
+        "Deaths": "0",
+        "Recovered": "3"
+    },
+    "336": {
+        "SNo": "336",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "277",
+        "Deaths": "0",
+        "Recovered": "5"
+    },
+    "337": {
+        "SNo": "337",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "221",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "338": {
+        "SNo": "338",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "206",
+        "Deaths": "2",
+        "Recovered": "1"
+    },
+    "339": {
+        "SNo": "339",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "152",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "340": {
+        "SNo": "340",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "147",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "341": {
+        "SNo": "341",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "130",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "342": {
+        "SNo": "342",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "111",
+        "Deaths": "1",
+        "Recovered": "4"
+    },
+    "343": {
+        "SNo": "343",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "109",
+        "Deaths": "0",
+        "Recovered": "3"
+    },
+    "344": {
+        "SNo": "344",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "108",
+        "Deaths": "1",
+        "Recovered": "1"
+    },
+    "345": {
+        "SNo": "345",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "99",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "346": {
+        "SNo": "346",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "96",
+        "Deaths": "1",
+        "Recovered": "5"
+    },
+    "347": {
+        "SNo": "347",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "84",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "348": {
+        "SNo": "348",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "58",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "349": {
+        "SNo": "349",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "56",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "350": {
+        "SNo": "350",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "55",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "351": {
+        "SNo": "351",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Hebei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "48",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "352": {
+        "SNo": "352",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "43",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "353": {
+        "SNo": "353",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "39",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "354": {
+        "SNo": "354",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "38",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "355": {
+        "SNo": "355",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "27",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "356": {
+        "SNo": "356",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "27",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "357": {
+        "SNo": "357",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "24",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "358": {
+        "SNo": "358",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "16",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "359": {
+        "SNo": "359",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "13",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "360": {
+        "SNo": "360",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "12",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "361": {
+        "SNo": "361",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "10",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "362": {
+        "SNo": "362",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "363": {
+        "SNo": "363",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "364": {
+        "SNo": "364",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "365": {
+        "SNo": "365",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "366": {
+        "SNo": "366",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "6",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "367": {
+        "SNo": "367",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "368": {
+        "SNo": "368",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Illinois",
+        "Country/Region": "US",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "369": {
+        "SNo": "369",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "California",
+        "Country/Region": "US",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "370": {
+        "SNo": "370",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Arizona",
+        "Country/Region": "US",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "371": {
+        "SNo": "371",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "372": {
+        "SNo": "372",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "14",
+        "Deaths": "0",
+        "Recovered": "6"
+    },
+    "373": {
+        "SNo": "373",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "374": {
+        "SNo": "374",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Singapore",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "375": {
+        "SNo": "375",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Vietnam",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "376": {
+        "SNo": "376",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "France",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "377": {
+        "SNo": "377",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Nepal",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "378": {
+        "SNo": "378",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Malaysia",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "379": {
+        "SNo": "379",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "380": {
+        "SNo": "380",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "381": {
+        "SNo": "381",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Cambodia",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "382": {
+        "SNo": "382",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Sri Lanka",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "383": {
+        "SNo": "383",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "New South Wales",
+        "Country/Region": "Australia",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "384": {
+        "SNo": "384",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Victoria",
+        "Country/Region": "Australia",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "385": {
+        "SNo": "385",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Bavaria",
+        "Country/Region": "Germany",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "386": {
+        "SNo": "386",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Finland",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "387": {
+        "SNo": "387",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "United Arab Emirates",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "388": {
+        "SNo": "388",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "389": {
+        "SNo": "389",
+        "ObservationDate": "01/29/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "390": {
+        "SNo": "390",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "4903",
+        "Deaths": "162",
+        "Recovered": "90"
+    },
+    "391": {
+        "SNo": "391",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "428",
+        "Deaths": "0",
+        "Recovered": "4"
+    },
+    "392": {
+        "SNo": "392",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "354",
+        "Deaths": "0",
+        "Recovered": "10"
+    },
+    "393": {
+        "SNo": "393",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "278",
+        "Deaths": "2",
+        "Recovered": "2"
+    },
+    "394": {
+        "SNo": "394",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "277",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "395": {
+        "SNo": "395",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "200",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "396": {
+        "SNo": "396",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "182",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "397": {
+        "SNo": "397",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "162",
+        "Deaths": "0",
+        "Recovered": "5"
+    },
+    "398": {
+        "SNo": "398",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "158",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "399": {
+        "SNo": "399",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "142",
+        "Deaths": "1",
+        "Recovered": "1"
+    },
+    "400": {
+        "SNo": "400",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "129",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "401": {
+        "SNo": "401",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "114",
+        "Deaths": "1",
+        "Recovered": "4"
+    },
+    "402": {
+        "SNo": "402",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "112",
+        "Deaths": "1",
+        "Recovered": "5"
+    },
+    "403": {
+        "SNo": "403",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "101",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "404": {
+        "SNo": "404",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "78",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "405": {
+        "SNo": "405",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "70",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "406": {
+        "SNo": "406",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Hebei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "65",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "407": {
+        "SNo": "407",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "63",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "408": {
+        "SNo": "408",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "46",
+        "Deaths": "1",
+        "Recovered": "1"
+    },
+    "409": {
+        "SNo": "409",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "44",
+        "Deaths": "2",
+        "Recovered": "0"
+    },
+    "410": {
+        "SNo": "410",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "41",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "411": {
+        "SNo": "411",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "35",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "412": {
+        "SNo": "412",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "31",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "413": {
+        "SNo": "413",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "26",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "414": {
+        "SNo": "414",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "19",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "415": {
+        "SNo": "415",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "17",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "416": {
+        "SNo": "416",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "14",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "417": {
+        "SNo": "417",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "14",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "418": {
+        "SNo": "418",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "12",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "419": {
+        "SNo": "419",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "10",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "420": {
+        "SNo": "420",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "9",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "421": {
+        "SNo": "421",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "422": {
+        "SNo": "422",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "423": {
+        "SNo": "423",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Tibet",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "424": {
+        "SNo": "424",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "425": {
+        "SNo": "425",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Illinois",
+        "Country/Region": "US",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "426": {
+        "SNo": "426",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "California",
+        "Country/Region": "US",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "427": {
+        "SNo": "427",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Arizona",
+        "Country/Region": "US",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "428": {
+        "SNo": "428",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "11",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "429": {
+        "SNo": "429",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "14",
+        "Deaths": "0",
+        "Recovered": "7"
+    },
+    "430": {
+        "SNo": "430",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "431": {
+        "SNo": "431",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Singapore",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "10",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "432": {
+        "SNo": "432",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Vietnam",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "433": {
+        "SNo": "433",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "France",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "434": {
+        "SNo": "434",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Nepal",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "435": {
+        "SNo": "435",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Malaysia",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "436": {
+        "SNo": "436",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "437": {
+        "SNo": "437",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "438": {
+        "SNo": "438",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Cambodia",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "439": {
+        "SNo": "439",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Sri Lanka",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "440": {
+        "SNo": "440",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "New South Wales",
+        "Country/Region": "Australia",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "92",
+        "Recovered": "2"
+    },
+    "441": {
+        "SNo": "441",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Victoria",
+        "Country/Region": "Australia",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "442": {
+        "SNo": "442",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Queensland",
+        "Country/Region": "Australia",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "443": {
+        "SNo": "443",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Bavaria",
+        "Country/Region": "Germany",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "444": {
+        "SNo": "444",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Finland",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "445": {
+        "SNo": "445",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "United Arab Emirates",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "446": {
+        "SNo": "446",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Philippines",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "447": {
+        "SNo": "447",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "India",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "448": {
+        "SNo": "448",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "449": {
+        "SNo": "449",
+        "ObservationDate": "01/30/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "450": {
+        "SNo": "450",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Hubei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "5806",
+        "Deaths": "204",
+        "Recovered": "2604"
+    },
+    "451": {
+        "SNo": "451",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Zhejiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "538",
+        "Deaths": "0",
+        "Recovered": "14"
+    },
+    "452": {
+        "SNo": "452",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Guangdong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "436",
+        "Deaths": "0",
+        "Recovered": "418"
+    },
+    "453": {
+        "SNo": "453",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Henan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "352",
+        "Deaths": "2",
+        "Recovered": "3"
+    },
+    "454": {
+        "SNo": "454",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Hunan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "332",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "455": {
+        "SNo": "455",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Jiangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "240",
+        "Deaths": "0",
+        "Recovered": "7"
+    },
+    "456": {
+        "SNo": "456",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Anhui",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "237",
+        "Deaths": "0",
+        "Recovered": "3"
+    },
+    "457": {
+        "SNo": "457",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Chongqing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "211",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "458": {
+        "SNo": "458",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Shandong",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "184",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "459": {
+        "SNo": "459",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Sichuan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "177",
+        "Deaths": "1",
+        "Recovered": "1"
+    },
+    "460": {
+        "SNo": "460",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Jiangsu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "168",
+        "Deaths": "0",
+        "Recovered": "5"
+    },
+    "461": {
+        "SNo": "461",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Beijing",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "139",
+        "Deaths": "1",
+        "Recovered": "5"
+    },
+    "462": {
+        "SNo": "462",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Shanghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "135",
+        "Deaths": "1",
+        "Recovered": "9"
+    },
+    "463": {
+        "SNo": "463",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Fujian",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "120",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "464": {
+        "SNo": "464",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Guangxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "87",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "465": {
+        "SNo": "465",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Shaanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "87",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "466": {
+        "SNo": "466",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Yunnan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "83",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "467": {
+        "SNo": "467",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Hebei",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "82",
+        "Deaths": "1",
+        "Recovered": "0"
+    },
+    "468": {
+        "SNo": "468",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Heilongjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "59",
+        "Deaths": "2",
+        "Recovered": "0"
+    },
+    "469": {
+        "SNo": "469",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Hainan",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "52",
+        "Deaths": "1",
+        "Recovered": "1"
+    },
+    "470": {
+        "SNo": "470",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Liaoning",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "48",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "471": {
+        "SNo": "471",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Shanxi",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "39",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "472": {
+        "SNo": "472",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Tianjin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "32",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "473": {
+        "SNo": "473",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Guizhou",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "29",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "474": {
+        "SNo": "474",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Gansu",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "29",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "475": {
+        "SNo": "475",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Ningxia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "21",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "476": {
+        "SNo": "476",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Inner Mongolia",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "20",
+        "Deaths": "0",
+        "Recovered": "20"
+    },
+    "477": {
+        "SNo": "477",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Xinjiang",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "17",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "478": {
+        "SNo": "478",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Jilin",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "14",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "479": {
+        "SNo": "479",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Hong Kong",
+        "Country/Region": "Hong Kong",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "12",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "480": {
+        "SNo": "480",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Taiwan",
+        "Country/Region": "Taiwan",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "10",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "481": {
+        "SNo": "481",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Qinghai",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "8"
+    },
+    "482": {
+        "SNo": "482",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Macau",
+        "Country/Region": "Macau",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "7",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "483": {
+        "SNo": "483",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Tibet",
+        "Country/Region": "Mainland China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "484": {
+        "SNo": "484",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Thailand",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "19",
+        "Deaths": "0",
+        "Recovered": "8"
+    },
+    "485": {
+        "SNo": "485",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Japan",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "15",
+        "Deaths": "0",
+        "Recovered": "1"
+    },
+    "486": {
+        "SNo": "486",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Singapore",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "13",
+        "Deaths": "15",
+        "Recovered": "0"
+    },
+    "487": {
+        "SNo": "487",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "South Korea",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "11",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "488": {
+        "SNo": "488",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Malaysia",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "8",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "489": {
+        "SNo": "489",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "France",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "490": {
+        "SNo": "490",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Bavaria",
+        "Country/Region": "Germany",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "5",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "491": {
+        "SNo": "491",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "New South Wales",
+        "Country/Region": "Australia",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "2"
+    },
+    "492": {
+        "SNo": "492",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "United Arab Emirates",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "4",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "493": {
+        "SNo": "493",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Victoria",
+        "Country/Region": "Australia",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "3",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "494": {
+        "SNo": "494",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Illinois",
+        "Country/Region": "US",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "495": {
+        "SNo": "495",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "California",
+        "Country/Region": "US",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "496": {
+        "SNo": "496",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Vietnam",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "497": {
+        "SNo": "497",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "498": {
+        "SNo": "498",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Queensland",
+        "Country/Region": "Australia",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "499": {
+        "SNo": "499",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Italy",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "500": {
+        "SNo": "500",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "UK",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "501": {
+        "SNo": "501",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Russia",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "2",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "502": {
+        "SNo": "502",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Washington",
+        "Country/Region": "US",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "503": {
+        "SNo": "503",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Arizona",
+        "Country/Region": "US",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "504": {
+        "SNo": "504",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Nepal",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "505": {
+        "SNo": "505",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "506": {
+        "SNo": "506",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Cambodia",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "507": {
+        "SNo": "507",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Sri Lanka",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "508": {
+        "SNo": "508",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Finland",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "509": {
+        "SNo": "509",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Philippines",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "510": {
+        "SNo": "510",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "India",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "511": {
+        "SNo": "511",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Sweden",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "1",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "512": {
+        "SNo": "512",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "Unknown",
+        "Country/Region": "China",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    },
+    "513": {
+        "SNo": "513",
+        "ObservationDate": "01/31/2020",
+        "Province/State": "",
+        "Country/Region": "Kiribati",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "0"
+    }
+}
